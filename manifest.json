@@ -1,0 +1,21 @@
+{
+  "name": "DisasterWatch",
+  "short_name": "DisasterWatch",
+  "description": "Track natural disasters worldwide using NASA EONET data",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1A73A7",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
